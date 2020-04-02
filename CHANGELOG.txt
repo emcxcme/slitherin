@@ -1,0 +1,6 @@
+[April/2/2020]
+Slitherin is now Python 3 compatible
+-
+You can now visualize the model using:
+tensorboard --logdir="/tmp/tflearn_logs"
+[nothing follows]
