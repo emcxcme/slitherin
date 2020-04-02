@@ -40,7 +40,7 @@ Table of Contents
 
 1. Clone the repo.
 2. Go to the project's root folder.
-3. Install required packages`pip install -r requirements.txt`.
+3. Install required packages`pip3 install -r requirements.txt`.
 4. Launch slitherin. I recommend starting with the help mode to see all available modes `python slitherin.py --help`.
 
 ## Rules
